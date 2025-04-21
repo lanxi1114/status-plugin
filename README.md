@@ -11,8 +11,8 @@ Get StatusBar Height.
 Supported Platforms
 -----------------
 
--iOS
--Android
+- iOS
+- Android
 
 Quick Example
 -------------
