@@ -92,7 +92,7 @@ var StatusBar = {
                 },
                 (err) => {
                     console.error(err);
-                    reject(err);
+                    reject(0);
                 },
                 'StatusBar',
                 'getStatusBarHeight',

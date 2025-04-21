@@ -63,6 +63,11 @@ interface StatusBar {
     show(): void;
 
     /**
+    * Get Statusbar Height
+    */
+    getStatusBarHeight(): Promise<number>;
+
+    /**
     * Read this property to see if the statusbar is visible or not.
     */
     isVisible: boolean;
