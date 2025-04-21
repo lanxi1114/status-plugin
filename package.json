@@ -10,7 +10,10 @@
       "ios"
     ]
   },
-  "repository": "github:lanxi1114/status-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lanxi1114/status-plugin.git"
+  },
   "bugs": "https://github.com/apache/cordova-plugin-statusbar/issues",
   "keywords": [
     "cordova",
