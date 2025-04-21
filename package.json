@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-statusbar",
+  "name": "ultracreation-plugin-statusbar",
   "version": "4.0.0",
   "description": "Cordova StatusBar Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-statusbar",
+    "id": "ultracreation-plugin-statusbar",
     "platforms": [
       "android",
       "ios"
