@@ -23,9 +23,10 @@
     id="ultracreation-plugin-statusbar"
     version="4.0.0">
     <name>StatusBar</name>
-    <description>Cordova StatusBar Plugin</description>
+    <description>Ultracreation StatusBar Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,statusbar</keywords>
+    <repo>https://github.com/lanxi1114/status-plugin.git</repo>
 
     <engines>
             <engine name="cordova" version=">=3.0.0" />
